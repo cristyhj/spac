@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spac-Final.CSharp", "Spac-Final.CSharp.csproj", "{9713A9CE-2523-A8CD-C479-2B3218D7B024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spac-Final.CSharp.Editor", "Spac-Final.CSharp.Editor.csproj", "{2867AE28-ABD6-8192-B271-CEC2D76F13D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9713A9CE-2523-A8CD-C479-2B3218D7B024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9713A9CE-2523-A8CD-C479-2B3218D7B024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9713A9CE-2523-A8CD-C479-2B3218D7B024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9713A9CE-2523-A8CD-C479-2B3218D7B024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2867AE28-ABD6-8192-B271-CEC2D76F13D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2867AE28-ABD6-8192-B271-CEC2D76F13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2867AE28-ABD6-8192-B271-CEC2D76F13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2867AE28-ABD6-8192-B271-CEC2D76F13D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
